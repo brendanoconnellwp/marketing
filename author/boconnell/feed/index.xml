@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>boconnell &#8211; Brendan Demo</title>
+	<title>boconnell &#8211; Brendan Demo 2</title>
 	<atom:link href="/author/boconnell/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 02 Jun 2024 05:45:57 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 02 Jun 2024 18:11:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,7 +25,7 @@
 					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[boconnell]]></dc:creator>
-		<pubDate>Sun, 02 Jun 2024 05:45:57 +0000</pubDate>
+		<pubDate>Sun, 02 Jun 2024 18:11:32 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
